@@ -1,22 +1,22 @@
 {
-  "name": "cyp-cli",
-  "version": "1.0.0",
+  "name": "my-cli",
+  "version": "0.2.3",
   "description": "Auto generate project template",
   "main": "index.js",
   "bin": {
-    "cyp-cli": "./index.js"
+    "my-cli": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hujiaojiao525/webpack-cyp.git"
+    "url": "git+https://github.com/hlme/my-cli.git"
   },
   "keywords": [
     "cli"
   ],
-  "author": "1607122129@qq.com",
+  "author": "798400626@qq.com",
   "license": "MIT",
   "bugs": {
-    "url": "  https://github.com/hujiaojiao525/webpack-cyp/issues"
+    "url": "https://github.com/hlme/my-cli/issues"
   },
-  "homepage": "  https://github.com/hujiaojiao525/webpack-cyp#readme"
+  "homepage": "https://github.com/hlme/my-cli#readme"
 }
